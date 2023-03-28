@@ -1,0 +1,3 @@
+﻿  management_memory_allocation_lesson43_44_45.cpp
+C:\Users\Hp\source\repos\management_memory_allocation_lesson43_44_45\management_memory_allocation_lesson43_44_45.cpp(57,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  management_memory_allocation_lesson43_44_45.vcxproj -> C:\Users\Hp\source\repos\management_memory_allocation_lesson43_44_45\x64\Debug\management_memory_allocation_lesson43_44_45.exe

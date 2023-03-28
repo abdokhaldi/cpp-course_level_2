@@ -1,0 +1,3 @@
+﻿  pointer_to_void_lesson42.cpp
+C:\Users\Hp\source\repos\pointer_to_void_lesson42\pointer_to_void_lesson42.cpp(13,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  pointer_to_void_lesson42.vcxproj -> C:\Users\Hp\source\repos\pointer_to_void_lesson42\x64\Debug\pointer_to_void_lesson42.exe
